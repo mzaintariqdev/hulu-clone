@@ -24,7 +24,7 @@ function Header() {
         className="object-contain"
         src={HuluLogo}
         alt="image"
-        width={200}
+        width={150}
         height={100}
       />
     </header>
